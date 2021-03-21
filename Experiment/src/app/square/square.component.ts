@@ -10,11 +10,8 @@ import { Component, OnInit } from '@angular/core';
   styles: [
   ]
 })
-export class SquareComponent implements OnInit {
+export class SquareComponent {
 
-  constructor() { }
 
-  ngOnInit(): void {
-  }
 
 }
